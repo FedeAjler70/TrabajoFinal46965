@@ -1,0 +1,37 @@
+// _contacto.scss
+
+// Estilos específicos para la página de contacto
+.contacto-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contacto-form {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contacto-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.contacto-textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    resize: vertical;
+}
+
+.contacto-submit {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
